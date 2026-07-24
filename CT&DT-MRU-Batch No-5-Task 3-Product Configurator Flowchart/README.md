@@ -13,4 +13,4 @@ Dell PC Configurator
 Dell Inspiron 15 Laptop
 
 ## Lucidchart Shareable Link
-Paste your Lucidchart link here.
+https://lucid.app/lucidchart/89ec856d-8f4c-4728-80ba-ec859f7a7744/edit?viewport_loc=-1711%2C-91%2C4827%2C2218%2C0_0&invitationId=inv_75d25ba4-d0cc-443e-8a76-d17f814cb73c
